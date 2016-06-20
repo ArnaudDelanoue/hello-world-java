@@ -2,6 +2,10 @@
 
 https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
 
+# How to install Jenkins on Ubuntu
+
+https://wiki.jenkins-ci.org/display/JENKINS/Installing+Jenkins+on+Ubuntu
+
 
 # About Mardown Syntax
 

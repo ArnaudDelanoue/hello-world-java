@@ -37,3 +37,5 @@ drwxrwxr-x 2 training training 4096 Jun 20 15:20 DOCS
 -rw-rw-r-- 1 training training    0 Jun 20 15:17 WillyBest.java
 training@ubuntu-devops:~/hello-world-java$ 
 ```
+
+Ejemplo de link a otro fichero: <a href='otromdfile.md'>mas info sobre otra cosa</a>

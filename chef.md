@@ -5,7 +5,7 @@
  https://opscode.app.box.com/s/75s0s971d7z5hdmtb6ua0os2vekf7zz6
 
 
- ## Remote Nodes
+## Remote Nodes
 
 * Carlos C: 54.204.254.233
 * Luis : 54.197.108.141
